@@ -1,1 +1,0 @@
-Hello, there! This is just to test VS Code integration.
