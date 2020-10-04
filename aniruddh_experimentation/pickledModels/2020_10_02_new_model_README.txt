@@ -1,0 +1,1 @@
+Input: 50-dimensional sentence embedding after preprocessing with the 2020_10_02 notebook.
