@@ -1,0 +1,11 @@
+dlc
+ident
+jiminy
+jock
+pease
+selector
+stirrup
+turnoff
+uninterruptible
+wallop
+wick
