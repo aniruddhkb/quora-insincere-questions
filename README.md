@@ -1,2 +1,2 @@
-# for_want_of_a_better_name_ML
-ML Project -- Quora
+ML Course Project -- Quora Insincere Question Detection (Course Project -- AI511ML)
+Team: For Want of a Better Name
